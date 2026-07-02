@@ -20,7 +20,7 @@ services:
           [
             "sh",
             "-c",
-            'npm run db:migrate | awk ''{ print strftime("[%Y-%m-%d %H:%M:%S]"), $0; fflush(); }'' | tee -a /app/logs/migration.log',
+            'pnpm run db:migrate | awk ''{ print strftime("[%Y-%m-%d %H:%M:%S]"), $0; fflush(); }'' | tee -a /app/logs/migration.log',
           ]
 networks:
   preflight_pf-net: # Check by using `docker network ls` command

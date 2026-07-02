@@ -1,6 +1,6 @@
 {
   "info": {
-    "_postman_id": "40c0931b-048a-48c3-98b0-117427415827",
+    "_postman_id": "c1221b5a-c1e8-463d-896a-39a8c087f056",
     "name": "pf-backend",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
     "_exporter_id": "9164733"
@@ -13,8 +13,14 @@
         "header": [],
         "url": {
           "raw": "http://localhost:3000/todo",
-          "host": ["http://localhost:3000"],
-          "path": ["todo"]
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "todo"
+          ]
         }
       },
       "response": []
@@ -35,8 +41,14 @@
         },
         "url": {
           "raw": "http://localhost:3000/todo",
-          "host": ["http://localhost:3000"],
-          "path": ["todo"]
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "todo"
+          ]
         }
       },
       "response": []
@@ -57,8 +69,14 @@
         },
         "url": {
           "raw": "http://localhost:3000/todo",
-          "host": ["http://localhost:3000"],
-          "path": ["todo"]
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "todo"
+          ]
         }
       },
       "response": []
@@ -79,8 +97,14 @@
         },
         "url": {
           "raw": "http://localhost:3000/todo",
-          "host": ["http://localhost:3000"],
-          "path": ["todo"]
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "todo"
+          ]
         }
       },
       "response": []
@@ -92,8 +116,15 @@
         "header": [],
         "url": {
           "raw": "http://localhost:3000/todo/all",
-          "host": ["http://localhost:3000"],
-          "path": ["todo", "all"]
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "todo",
+            "all"
+          ]
         }
       },
       "response": []

@@ -1,6 +1,6 @@
 .env
 .env.test
-node_modules
 dist
 logs
-.npmrc
+node_modules/
+migration/
