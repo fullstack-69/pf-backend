@@ -12,15 +12,11 @@
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "http://localhost:3000/todo",
+          "raw": "http://localhost:3001/todo",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
-          "port": "3000",
-          "path": [
-            "todo"
-          ]
+          "host": ["localhost"],
+          "port": "3001",
+          "path": ["todo"]
         }
       },
       "response": []
@@ -40,15 +36,11 @@
           }
         },
         "url": {
-          "raw": "http://localhost:3000/todo",
+          "raw": "http://localhost:3001/todo",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
-          "port": "3000",
-          "path": [
-            "todo"
-          ]
+          "host": ["localhost"],
+          "port": "3001",
+          "path": ["todo"]
         }
       },
       "response": []
@@ -68,15 +60,11 @@
           }
         },
         "url": {
-          "raw": "http://localhost:3000/todo",
+          "raw": "http://localhost:3001/todo",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
-          "port": "3000",
-          "path": [
-            "todo"
-          ]
+          "host": ["localhost"],
+          "port": "3001",
+          "path": ["todo"]
         }
       },
       "response": []
@@ -96,15 +84,11 @@
           }
         },
         "url": {
-          "raw": "http://localhost:3000/todo",
+          "raw": "http://localhost:3001/todo",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
-          "port": "3000",
-          "path": [
-            "todo"
-          ]
+          "host": ["localhost"],
+          "port": "3001",
+          "path": ["todo"]
         }
       },
       "response": []
@@ -115,16 +99,11 @@
         "method": "POST",
         "header": [],
         "url": {
-          "raw": "http://localhost:3000/todo/all",
+          "raw": "http://localhost:3001/todo/all",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
-          "port": "3000",
-          "path": [
-            "todo",
-            "all"
-          ]
+          "host": ["localhost"],
+          "port": "3001",
+          "path": ["todo", "all"]
         }
       },
       "response": []

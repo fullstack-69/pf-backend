@@ -6,12 +6,12 @@ meta:
   modified: 1751883456421
   description: ""
 collection:
-  - url: http://localhost:3000/todo
+  - url: http://localhost:3001/todo
     name: Create
     meta:
       id: req_71a66379da464dc09de10eeca62f96c8
       created: 1720142917465
-      modified: 1720143029445
+      modified: 1783052548529
       isPrivate: false
       description: ""
       sortKey: -1720142917466
@@ -38,12 +38,12 @@ collection:
         send: true
         store: true
       rebuildPath: true
-  - url: http://localhost:3000/todo
+  - url: http://localhost:3001/todo
     name: Query
     meta:
       id: req_f6c8eac4838542168b16bfe302b2fbdf
       created: 1720142933882
-      modified: 1720143015761
+      modified: 1783052544499
       isPrivate: false
       description: ""
       sortKey: -1720142933882
@@ -62,12 +62,12 @@ collection:
         send: true
         store: true
       rebuildPath: true
-  - url: http://localhost:3000/todo
+  - url: http://localhost:3001/todo
     name: Delete
     meta:
       id: req_6a294cc9a2e84d249a45bfaa542be4ab
       created: 1720142974556
-      modified: 1720143059437
+      modified: 1783052540926
       isPrivate: false
       description: ""
       sortKey: -1720142974556
@@ -94,12 +94,12 @@ collection:
         send: true
         store: true
       rebuildPath: true
-  - url: http://localhost:3000/todo
+  - url: http://localhost:3001/todo
     name: Edit
     meta:
       id: req_e21629dae8cc4053b0de0a7032fbda18
       created: 1720143066950
-      modified: 1751883352711
+      modified: 1783052532433
       isPrivate: false
       description: ""
       sortKey: -1720143066950
