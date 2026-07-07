@@ -128,3 +128,5 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, async () => {
   debug(`Listening on port ${PORT}: http://localhost:${PORT}`);
 });
+
+export default app;

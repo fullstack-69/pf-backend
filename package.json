@@ -10,7 +10,8 @@
     "db:generate": "drizzle-kit generate",
     "db:push": "drizzle-kit push",
     "db:migrate": "drizzle-kit migrate",
-    "db:prototype": "tsx ./db/prototype.ts"
+    "db:prototype": "tsx ./db/prototype.ts",
+    "test": "vitest"
   },
   "keywords": [],
   "author": "",
@@ -44,8 +45,11 @@
     "@types/express": "^5.0.6",
     "@types/morgan": "^1.9.10",
     "@types/node": "^26.0.1",
+    "@types/supertest": "^7.2.0",
     "cross-env": "^10.1.0",
     "drizzle-kit": "^0.31.10",
-    "nodemon": "^3.1.14"
+    "nodemon": "^3.1.14",
+    "supertest": "^7.2.2",
+    "vitest": "^4.1.10"
   }
 }
