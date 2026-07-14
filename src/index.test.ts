@@ -1,5 +1,5 @@
 import { describe, it, expect, beforeAll } from "vitest";
-import app from "./index.ts";
+import app from "./index.js";
 import request from "supertest";
 import { dbClient } from "@db/client.js";
 import { todoTable } from "@db/schema.js";
